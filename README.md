@@ -1,4 +1,8 @@
 # pytorch-vsumm-reinforce
+
+### This repo is taken from https://github.com/SinDongHwan/pytorch-vsumm-reinforce with some editions. 
+### The editions include making the approach available for videos without having summary. To uae the whole files, unzip frames.zip which includes 500 sample frames from Cooking video of SumMe dataset.
+### Dataset contains 5 sample videos (Cooking, Fire Domino, Jumps, playing_ball, St Maarten Landing)
 This repo contains the Pytorch implementation of the AAAI'18 paper - [Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward](https://arxiv.org/abs/1801.00054). The original Theano implementation can be found [here](https://github.com/KaiyangZhou/vsumm-reinforce).
 
 <div align="center">
