@@ -1,0 +1,57 @@
+[
+    {
+        "test_keys": [
+            "video_3"
+        ], 
+        "train_keys": [
+            "video_1", 
+            "video_2", 
+            "video_4", 
+            "video_5"
+        ]
+    }, 
+    {
+        "test_keys": [
+            "video_4"
+        ], 
+        "train_keys": [
+            "video_1", 
+            "video_2", 
+            "video_3", 
+            "video_5"
+        ]
+    }, 
+    {
+        "test_keys": [
+            "video_5"
+        ], 
+        "train_keys": [
+            "video_1", 
+            "video_2", 
+            "video_3", 
+            "video_4"
+        ]
+    }, 
+    {
+        "test_keys": [
+            "video_3"
+        ], 
+        "train_keys": [
+            "video_1", 
+            "video_2", 
+            "video_4", 
+            "video_5"
+        ]
+    }, 
+    {
+        "test_keys": [
+            "video_4"
+        ], 
+        "train_keys": [
+            "video_1", 
+            "video_2", 
+            "video_3", 
+            "video_5"
+        ]
+    }
+]
